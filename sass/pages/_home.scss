@@ -1,0 +1,6 @@
+.container {
+    grid-column: col-start 1 / col-end 8;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
