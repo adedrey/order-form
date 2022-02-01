@@ -22,7 +22,7 @@ html {
 body {
   box-sizing: border-box;
   display: grid;
-  grid-template-rows: 130vh;
+  grid-template-rows: 120vh;
   background-image: linear-gradient(rgba(221, 221, 221, 0.9), rgba(221, 221, 221, 0.9)), url(./../img/bg.jpg);
   background-size: cover;
   background-position: center;
